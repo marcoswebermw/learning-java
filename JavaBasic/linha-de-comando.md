@@ -31,5 +31,5 @@ public class ImprimirNome{
   
 `javac impressao/ImprimirNome.java`
   
-`java impressao/ImprimirNome Marcos`
+`java impressao.ImprimirNome Marcos`
   
